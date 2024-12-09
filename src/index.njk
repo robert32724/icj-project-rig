@@ -7,17 +7,16 @@
 {% block content %}
 <div class="container">
   <h1> Student Resources at UT </h1>
-  <p> The University of Texas of Austin offers many resources for every student enrolled there. It offers resources stemming from writing, music production and even medical services. </p>
+  <p> The University of Texas of Austin offers many resources for every student enrolled there. It offers resources stemming from writing, career exploration and even medical services. </p>
   <h2> Resources Loop</h2>
   <p>This loops through data that came from a Google Docs example.</p>
   <div class="row">
-    {% for book in library.books %}
+    {% for resource in services.resources %}
       <div class="col">
-        <img src="img/{{ book.slug }}.jpg" alt="" class="img-fluid">
-        <h3><a href="books/{{ book.slug }}.html">{{ book.title }}</a></h3>
+        <img src="img/{{ resource.Image }}" alt="Photo of {{ resource.Name }}" class="img-fluid">
+        <h3><a href="resources/{{ resource.Slug }}.html">{{ resource.Name }}</a></h3>
       </div>
     {% endfor %}
   </div>
-  {% endfor %}
 </div>
 {% endblock %}

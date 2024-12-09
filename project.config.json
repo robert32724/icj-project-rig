@@ -8,16 +8,16 @@
     {
       "fileId": "1xbJYYOkvFs70-RNAP9j3iPfhZInWMtDNbGJaZacbOPY",
       "type": "sheet",
-      "name": "cities"
+      "name": "services"
     }
   ],
   "to_bake": [
     {
-      "template": "bake-book",
-      "data": "library",
-      "array": "books",
-      "slug": "slug",
-      "path": "books"
+      "template": "bake-resources",
+      "data": "services",
+      "array": "resources",
+      "slug": "Slug",
+      "path": "resources"
     }
   ]
 }

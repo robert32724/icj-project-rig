@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "Name": "University Writing Center",
+      "Location": "101 E 21st Street ",
+      "Slug": "university-writing-center",
+      "Service": "Writing Help",
+      "Image": "writing-center.png"
+    },
+    {
+      "Name": "Vick Advising Center",
+      "Location": "2304 Whitis Avenue",
+      "Slug": "vick-advising-center",
+      "Service": "Career Exploration",
+      "Image": "vick-advising-center.png"
+    },
+    {
+      "Name": "University Health Services",
+      "Location": "100 W Dean Keaton Street",
+      "Slug": "universtiy-health-services",
+      "Service": "Medical Services",
+      "Image": "university-health-services.jpg"
+    }
+  ]
+}
