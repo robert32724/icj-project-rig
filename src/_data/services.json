@@ -4,21 +4,21 @@
       "Name": "University Writing Center",
       "Location": "101 E 21st Street ",
       "Slug": "university-writing-center",
-      "Service": "Writing Help",
+      "Service": "The University of Texas offers writing help to students who made need a second opnion on their essays, cover letters, and job applications. They offer much more help and can even help you draft a song!",
       "Image": "writing-center.png"
     },
     {
       "Name": "Vick Advising Center",
       "Location": "2304 Whitis Avenue",
       "Slug": "vick-advising-center",
-      "Service": "Career Exploration",
+      "Service": "At Vick Advising Center, they offer a lot of help with major exploration, and much more regarding academcis. They can help with internal transfers, and even solving Core and Flag class issues. ",
       "Image": "vick-advising-center.png"
     },
     {
       "Name": "University Health Services",
       "Location": "100 W Dean Keaton Street",
       "Slug": "universtiy-health-services",
-      "Service": "Medical Services",
+      "Service": "Univershity Health Services helps students who have suffered an injury while on campus. They offer paid medical services for all those who srt up an appointment, however they do offer a 24/7 nurse advice line for those in need. ",
       "Image": "university-health-services.jpg"
     }
   ]
